@@ -1,0 +1,3 @@
+# Hexcola is typing...
+
+Yes, it's a blog.

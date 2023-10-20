@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Hexcola is typing...</title>
+    <link>https://www.hexcola.com/posts/</link>
+    <description>Recent content in Posts on Hexcola is typing...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Oct 2023 18:21:08 +0800</lastBuildDate><atom:link href="https://www.hexcola.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, I&#39;m Back</title>
+      <link>https://www.hexcola.com/posts/hello-i-am-back/</link>
+      <pubDate>Fri, 20 Oct 2023 18:21:08 +0800</pubDate>
+      
+      <guid>https://www.hexcola.com/posts/hello-i-am-back/</guid>
+      <description>Reopened my blog system.
+The world is speeding up, text is my only tool to hold.</description>
+    </item>
+    
+  </channel>
+</rss>
