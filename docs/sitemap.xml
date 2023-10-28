@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.hexcola.com/posts/hello-i-am-back/</loc>
-    <lastmod>2023-10-20T18:21:08+08:00</lastmod>
-  </url><url>
     <loc>https://www.hexcola.com/</loc>
-    <lastmod>2023-10-20T18:21:08+08:00</lastmod>
+    <lastmod>2023-10-27T10:56:24+08:00</lastmod>
   </url><url>
     <loc>https://www.hexcola.com/posts/</loc>
+    <lastmod>2023-10-27T10:56:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.hexcola.com/posts/roadtrip-and-camping/</loc>
+    <lastmod>2023-10-27T10:56:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.hexcola.com/posts/hello-i-am-back/</loc>
     <lastmod>2023-10-20T18:21:08+08:00</lastmod>
   </url><url>
     <loc>https://www.hexcola.com/categories/</loc>
