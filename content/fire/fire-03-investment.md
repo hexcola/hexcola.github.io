@@ -5,3 +5,12 @@ draft = false
 +++
 
 MOhahah
+
+
+## 基金
+
+
+
+## 参考
+
+- [【实用篇】如何选基金？](https://www.youtube.com/watch?v=kRmOaRDWnIg)
